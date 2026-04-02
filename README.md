@@ -45,8 +45,8 @@
 
 ## 🌌 Quote
 <p align="center">
-  "Langkah kecil tetap membawa kita maju 💜" <br><br>
-  "Small steps still move you forward 🚀" <br><br>
+  "Langkah kecil tetap membawa kita maju" <br><br>
+  "Small steps still move you forward" <br><br>
 </p>
 
 ---
