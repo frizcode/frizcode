@@ -1,7 +1,7 @@
 # Hi 👋 I'm Frizcode
 
 💻 Beginner Developer  
-💜 coding & learning  
+💜 Love coding & learning  
 
 ---
 
