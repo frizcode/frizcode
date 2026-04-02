@@ -1,6 +1,6 @@
-<!-- BACKGROUND ANIME -->
+<!-- BACKGROUND IMAGE UMA MUSUME -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8f/8e/5e/8f8e5e6f3b0f6c8b9b9c1f9e5a8c2b7f.gif" width="100%" />
+  <img src="https://images.alphacoders.com/121/1213557.jpg" width="100%" />
 </p>
 
 <!-- HEADER -->
@@ -10,7 +10,7 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&size=26&center=true&vCenter=true&width=600&lines=こんにちは+👋;I'm+Frizcode;Beginner+Developer;Anime+Lover+🎌;Keep+Learning+💜" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&size=26&center=true&vCenter=true&width=600&lines=こんにちは+👋;I'm+Frizcode;Beginner+Developer;Uma+Musume+Fan+🎌;Keep+Learning+💜" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 💻 Beginner Developer <br>
 🌱 Learning Web Development & Python <br>
 🚀 Improving step by step <br>
-🎌 Love anime & Japanese style
+🎌 Love anime (Uma Musume 💜)
 </p>
 
 ---
@@ -52,8 +52,8 @@
 
 ## 🌌 Quote
 <p align="center">
-  <i>"コードを書いて、未来を作る 💜"</i><br>
-  <i>(Write code, build the future)</i>
+  <i>"一歩ずつでも前へ進もう 💜"</i><br>
+  <i>(Move forward step by step)</i>
 </p>
 
 ---
