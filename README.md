@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=200&section=header&text=Frizcode&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:FFD700&height=200&section=header&text=Frizcode&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&size=24&center=true&vCenter=true&width=600&lines=I'm+Frizcode;Fayiz+Aditya+Al-Fikri;Beginner+Developer;Keep+Learning+Sometimes" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0047AB&size=24&center=true&vCenter=true&width=600&lines=I'm+Frizcode;Fayiz+Aditya+Al-Fikri;Beginner+Developer;Keep+Learning+Sometimes" />
 </p>
 
 ---
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:FFD700&height=100&section=footer"/>
 </p>
