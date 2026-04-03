@@ -3,63 +3,63 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&size=24&center=true&vCenter=true&width=600&lines=こんにちは+👋;I'm+Frizcode;Beginner+Developer;Keep+Learning+Everyday+💜" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&size=24&center=true&vCenter=true&width=600&lines=I'm+Frizcode;Fayiz+Aditya+Al-Fikri;Beginner+Developer;Keep+Learning+Sometimes" />
 </p>
 
 ---
 
-## 🌸 About Me
+## About Me
 <p align="center">
-💻 Beginner Developer <br>
-🌱 Learning Web Development & Python <br>
-🚀 Improving step by step <br>
-💜 Passion for coding & creativity
+  <b>Beginner Developer</b> <br>
+  Learning Web Development & Python <br>
+  Improving step by step <br>
+  Passion for coding & creativity
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="300" alt="Coding GIF" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,git,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=frizcode&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frizcode&layout=compact&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=frizcode&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=frizcode&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frizcode&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=frizcode&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 <p align="center">
-  <img src="https://github.com/frizcode/frizcode/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/frizcode/frizcode/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌌 Quote
+## Quote
 <p align="center">
-  "Langkah kecil tetap membawa kita maju" <br><br>
-  "Small steps still move you forward" <br><br>
+  <i>"Langkah kecil tetap membawa kita maju"</i> <br>
+  <i>"Small steps still move you forward"</i>
 </p>
 
 ---
 
-## 🎯 Goals
+## Goals
 <p align="center">
-🌱 Belajar konsisten setiap hari <br>
-💻 Membangun project yang bermanfaat <br>
-🚀 Menjadi developer yang lebih baik <br><br>
-<p align="center">
-🌱 Learn consistently every day <br>
-💻 Build useful projects <br>
-🚀 Become a better developer <br><br>
+  ▹ Learn consistently every day <br>
+  ▹ Build useful projects <br>
+  ▹ Become a better developer
 </p>
 
 ---
