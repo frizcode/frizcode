@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="300" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animasi Profil">
 </p>
 
 ---
@@ -60,6 +60,10 @@
   ▹ Learn consistently every day <br>
   ▹ Build useful projects <br>
   ▹ Become a better developer
+</p>
+
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="500" alt="Coding GIF" />
 </p>
 
 ---
