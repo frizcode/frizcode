@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:FFD700&height=200&section=header&text=Frizcode&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Frizcode&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -53,6 +53,10 @@
   <i>"Small steps still move you forward"</i>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="70%" alt="Animasi GIF" />
+</p>
+
 ---
 
 ## Goals
@@ -69,5 +73,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:FFD700&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=100&section=footer" width="100%" />
 </p>
