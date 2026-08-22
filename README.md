@@ -29,13 +29,40 @@
 
 ---
 
-## GitHub Stats
+<h2>📊 GitHub Stats</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <br>
+      <img src="https://img.shields.io/github/followers/frizcode?style=flat-square&logo=github&logoColor=white&color=9b59b6&label=" />
+      <br><br>
+      <sub><b>FOLLOWERS</b></sub>
+      <br><br>
+    </td>
+    <td align="center" width="200">
+      <br>
+      <img src="https://img.shields.io/github/stars/frizcode?style=flat-square&logo=github&logoColor=white&color=9b59b6&label=" />
+      <br><br>
+      <sub><b>STARS</b></sub>
+      <br><br>
+    </td>
+    <td align="center" width="200">
+      <br>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffrizcode&query=%24.public_repos&label=&color=9b59b6&style=flat-square&logo=github&logoColor=white" />
+      <br><br>
+      <sub><b>PUBLIC REPOS</b></sub>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=frizcode&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frizcode&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=frizcode&theme=radical&hide_border=true" height="150" />
+  <br>
+  <img src="https://img.shields.io/badge/PROFILE-frizcode-9b59b6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=frizcode&style=for-the-badge&color=9b59b6&label=PROFILE+VIEWS" />
+  <br><br>
+  <sub>⚡ Building • Learning • Creating</sub>
 </p>
 
 ---
